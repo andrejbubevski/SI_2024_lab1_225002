@@ -1,0 +1,122 @@
+commit 41d72a418653e17a1fc8b3540cad49ebec4a5868 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:35:28 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit efd07cf135a7ddd453002fda4ff8ebe13c69e46e
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:30:12 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 7df2fca2788d4a10bf525aac7d6071381b2ec86e (origin/bug1, bug1)
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:33:25 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 44e41870e709c4185aadd424fdd4fe63a793e408
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:23:04 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b4aa715216f777a0b7222e669bb84d6332ebdc52 (main)
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:13:54 2024 +0200
+
+    Add starter code
+
+commit 1d891e68cb2081bb089d5274d3caecd4edce9197
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:06:08 2024 +0200
+
+    Initial commit
+commit efd07cf135a7ddd453002fda4ff8ebe13c69e46e
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:30:12 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 7df2fca2788d4a10bf525aac7d6071381b2ec86e (origin/bug1, bug1)
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:33:25 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 44e41870e709c4185aadd424fdd4fe63a793e408
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:23:04 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b4aa715216f777a0b7222e669bb84d6332ebdc52 (main)
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:13:54 2024 +0200
+
+    Add starter code
+
+commit 1d891e68cb2081bb089d5274d3caecd4edce9197
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:06:08 2024 +0200
+
+    Initial commit
+commit efd07cf135a7ddd453002fda4ff8ebe13c69e46e
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:30:12 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 7df2fca2788d4a10bf525aac7d6071381b2ec86e (origin/bug1, bug1)
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:33:25 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 44e41870e709c4185aadd424fdd4fe63a793e408
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:23:04 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b4aa715216f777a0b7222e669bb84d6332ebdc52 (main)
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:13:54 2024 +0200
+
+    Add starter code
+
+commit 1d891e68cb2081bb089d5274d3caecd4edce9197
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:06:08 2024 +0200
+
+    Initial commit
+commit efd07cf135a7ddd453002fda4ff8ebe13c69e46e
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:30:12 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 7df2fca2788d4a10bf525aac7d6071381b2ec86e (origin/bug1, bug1)
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:33:25 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 44e41870e709c4185aadd424fdd4fe63a793e408
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:23:04 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b4aa715216f777a0b7222e669bb84d6332ebdc52 (main)
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:13:54 2024 +0200
+
+    Add starter code
+
+commit 1d891e68cb2081bb089d5274d3caecd4edce9197
+Author: Andrej <andrej.bubevski@students.finki.ukim.mk>
+Date:   Sun Mar 31 23:06:08 2024 +0200
+
+    Initial commit
